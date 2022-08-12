@@ -26,6 +26,11 @@ import {
                     > 
                         <TextField 
                             fullWidth
+                            label = "Name"
+                            
+                        />
+                        <TextField 
+                            fullWidth
                             label = "Email"
                         
                         />
@@ -42,7 +47,7 @@ import {
                                 padding : 1.5
                             }}
                         >
-                            Login
+                            signup
                         </Button>
     
                     </Stack>
